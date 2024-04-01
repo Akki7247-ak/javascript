@@ -16,4 +16,4 @@ accountEmail = "pre@gmail.com"
 accountPassword = "12345"
 accountCity ="bhopal"
 
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
